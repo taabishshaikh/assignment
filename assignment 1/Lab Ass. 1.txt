@@ -1,0 +1,42 @@
+1)WAP to take input from the user and check whether it is even and greater
+
+2)WAP to take two float as a number and create calculatotr
+
+3)WAP to take two strings from user and perform cancatenationx=int (input( 'Enter number A : '))
+y=int (input( 'Enter number B : '))
+ as follows
+	Example: x = 'hello'
+		 y='world'
+		output : hello world
+
+4)WAP to take two number from user and check whether it is a divisible of 17
+
+5)WAP to take two input from a user and calculate exponential( x ^ y)
+
+6)WAP to take input from a user and perform division which gives answer in integer form
+
+x=create an account on github
+
+go through stack overflow
+
+chr(65)= A
+chr(82)= R
+chr(97)= a
+
+ord(a)=97 inverse of chr
+
+a=-10
+abs (10)
+a=10 it neglects the negation
+
+round (4.8908)= 5
+round (4.7858588,2)=4.78
+
+round (3.5)=4 nearest even b=no between 3 and 4
+
+a = "hello world"
+
+if "hw" in a
+	print ('present')
+else:
+	print ('absent')

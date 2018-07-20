@@ -1,0 +1,17 @@
+WAP to take input from a user for name, mobile number abd address and validate
+
+WAP to take an input from user and give square root
+	4.5==>5
+	4.3==>4
+	4.5==>6
+	5.5==>6
+	3.5==4
+
+WAP to take two guess input from user and predict whether he has guessed it correct or not, give 4 chances to user
+
+WAP to take n inputs from user and print the largest and smallest, total and average
+
+WAP for factorial
+
+
+take 5 words from user and find which is longest word and print it

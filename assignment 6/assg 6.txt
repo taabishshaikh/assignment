@@ -1,0 +1,18 @@
+take a sentence as an input and take a word as an input calculate how many
+times the word has occured
+example:
+	sentence= "HTML HTML PYTHON JAVA C JAVA PYTHON HTML PYTHON"
+	WORD = "HTML"
+	OUTPUt: 3
+	if the word is not in the sentence print appropriate message
+	o/P perl
+	
+	take care of cases
+	word : htm;
+	o/p= 3
+.........................................
+
+excluded list= ['is', 'am' , 'are' , 'of' , 'as' , 'on' , 'a']
+
+take the sentemce from the user and print only which are not in the
+excluded list
